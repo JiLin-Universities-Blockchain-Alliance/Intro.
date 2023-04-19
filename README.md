@@ -15,6 +15,14 @@
 
 ## 组织宗旨： 让吉林省区块链发展 从高校学子们起步
 
+## 加入我们：YanboTravelAllWorld（Wechat）
+
+## 欢迎所有 项目方/技术社区/高校链协 与我们联合活动！
+
+联系邮箱：**wangyanbo86@jlict.com**
+
+
+
 
 
 
