@@ -16,6 +16,12 @@
 
 ## 组织宗旨：让吉林省区块链发展 从高校学子们起步
 
+
+<br>
+<br>
+<br>
+
+
 ## 加入我们：YanboTravelAllWorld（Wechat）
 
 我们现在仍在寻找 吉林省各高校对Blockchain及其相关领域感兴趣的Buidler 
