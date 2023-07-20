@@ -1,7 +1,8 @@
 # 吉林高校区块链联盟 简介
 ## JiLin-Universities-Blockchain-Alliance Intro
 
-![jluba](https://user-images.githubusercontent.com/76860915/233099995-e50cf52d-b9ce-43a3-87a7-f752b7c1e3ed.png)
+<img width="250" alt="FB1C16ED-6C69-4011-A825-332131B6E3CA" src="https://github.com/JiLin-Universities-Blockchain-Alliance/Intro./assets/76860915/3ef5da32-c50e-4931-97f4-273baec77c74">
+
 
 吉林高校区块链联盟于2023年4月12日由 [烟波](https://github.com/yanboishere) 组织成立 
 
