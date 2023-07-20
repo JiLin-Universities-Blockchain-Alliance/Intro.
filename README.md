@@ -67,6 +67,19 @@
 
 ## 欢迎所有 项目方/技术社区/高校链协 与我们联合活动！
 
+## 现有合作社区
+
+### Whaler DAO
+<img width="148" alt="截屏2023-07-21 上午12 32 20" src="https://github.com/JiLin-Universities-Blockchain-Alliance/Intro./assets/76860915/e5b9e2fa-991d-4e72-82d9-b01cfb250e44">
+
+### Tintinland
+
+<img width="261" alt="截屏2023-07-21 上午12 30 43" src="https://github.com/JiLin-Universities-Blockchain-Alliance/Intro./assets/76860915/85ee8bc7-1274-4f49-9c2c-c29aba1a7cea">
+
+### OneBlock
+<img width="247" alt="截屏2023-07-21 上午12 36 18" src="https://github.com/JiLin-Universities-Blockchain-Alliance/Intro./assets/76860915/2f5acc28-9c43-45d3-9cd3-a47845187646">
+
+
 ### 联系邮箱：**wangyanbo86@jlict.com**
 
 <br>
